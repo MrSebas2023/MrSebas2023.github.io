@@ -1186,7 +1186,7 @@ body, button, input, select, textarea, ::placeholder {
 	transform: translateX(50%)
 }
 .container-3baos1:after {
-	content: " QualityRP Owner";
+	content: "QualityRP Owner";
 	left: 50%;
 	text-align: left;
 	opacity: 0;
