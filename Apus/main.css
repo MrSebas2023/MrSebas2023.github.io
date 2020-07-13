@@ -232,13 +232,13 @@ body, button, input, select, textarea, ::placeholder {
 	order: 1
 }
 .typeWindows-1za-n7>.wordmark-2iDDfm:before {
-	content: "MrSebas2023";
+	content: "Apus";
 	color: rgba(255, 255, 255, 0.7);
 	font-size: 14px;
 	text-shadow: 0 0 3px #000
 }
 .typeWindows-1za-n7>.wordmark-2iDDfm:after {
-	content: "QualityRP";
+	content: "QualityRP Admin";
 	color: rgba(255, 255, 255, 0.3);
 	font-family: var(--code-font);
 	font-size: 10px
@@ -1180,13 +1180,13 @@ body, button, input, select, textarea, ::placeholder {
 	transition: all .5s ease-in-out
 }
 .container-3baos1:before {
-	content: "MrSebas2023";
+	content: "Apus";
 	right: 50%;
 	text-align: right;
 	transform: translateX(50%)
 }
 .container-3baos1:after {
-	content: "QualityRP Owner";
+	content: "QualityRP Admin";
 	left: 50%;
 	text-align: left;
 	opacity: 0;
